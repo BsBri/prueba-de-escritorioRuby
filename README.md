@@ -1,1 +1,1 @@
-# prueba-de-escritorioRuby
+# AnalizadorRuby
